@@ -1,5 +1,10 @@
 # WireClaw
 
+# This version adds functionality for the Heltec Lora https://heltec.org/project/wifi-lora-32-v3/3 - https://heltec.org/project/wifi-lora-32-v3/
+OLED is working 100%
+LoRa connecting to The Things Network is in process. 
+
+
 An AI agent that lives on a $5 microcontroller and controls real hardware.
 
 **Supported chips:** ESP32-C6, ESP32-S3, ESP32-C3 (4 MB flash required)
